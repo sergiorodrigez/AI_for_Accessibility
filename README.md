@@ -1,6 +1,6 @@
 # AI for Accessibility
 
-AI for Accessibility is a web application designed to harness artificial intelligence to assist individuals with speech and cognitive difficulties. The application provides innovative solutions to improve accessibility and inclusivity for people with these challenges.
+AI for Accessibility is a web application designed to harness artificial intelligence to assist individuals with speech and cognitive difficulties. The application provides innovative solutions to improve accessibility and inclusivity for people with these challenges
 
 <img width="1335" alt="image" src="https://github.com/user-attachments/assets/6509f6ec-1ad9-457c-80f4-31aefe1ddafe">
 
