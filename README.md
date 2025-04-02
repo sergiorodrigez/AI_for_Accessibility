@@ -20,7 +20,7 @@ This project is a Final Year Project developed at the ICAI School of Engineering
 
 ## System Architecture
 
-<img src=![image](https://github.com/user-attachments/assets/21fe22ba-5e2a-4730-b6e7-17a21b6bcdc6) width="500"/>
+![image](https://github.com/user-attachments/assets/21fe22ba-5e2a-4730-b6e7-17a21b6bcdc6)
 
 
 ## Screenshots
