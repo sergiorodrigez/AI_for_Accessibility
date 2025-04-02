@@ -1,6 +1,6 @@
 # AI for Accessibility
 
-This project is a Final Year Project developed at the ICAI School of Engineering (Universidad Pontificia Comillas). It presents a web application powered by AI, aimed at supporting people with speech impairments by guiding them to share stories and thoughts in a friendly, structured way. The application transforms their responses into personalized audio using text-to-speech synthesis.
+This project is a Final Degree Project developed at the ICAI School of Engineering (Universidad Pontificia Comillas). It presents a web application powered by AI, aimed at supporting people with speech impairments by guiding them to share stories and thoughts in a friendly, structured way. The application transforms their responses into personalized audio using text-to-speech synthesis.
 
 ## Features
 
@@ -20,24 +20,16 @@ This project is a Final Year Project developed at the ICAI School of Engineering
 
 ## System Architecture
 
-![image](https://github.com/user-attachments/assets/21fe22ba-5e2a-4730-b6e7-17a21b6bcdc6)
-
+<img src="https://github.com/user-attachments/assets/21fe22ba-5e2a-4730-b6e7-17a21b6bcdc6" width="500"/>
 
 ## Screenshots
 
 ### User Flow
 
-<img src="img/login_screen.png" width="500"/>
-*From: Figura 25 – Inicio de Sesión*
-
-<img src="img/start_screen.png" width="500"/>
-*From: Figura 26 – Pantalla de Inicio*
-
-<img src="img/conversation.png" width="500"/>
-*From: Figura 29 – Conversación*
-
-<img src="img/results.png" width="500"/>
-*From: Figura 30 – Resultados de la Conversación*
+<img src="https://github.com/user-attachments/assets/91d37faf-d06d-4b7e-bdaf-d7713b9ad52f" width="500"/>
+<img src="https://github.com/user-attachments/assets/a2db0382-22a1-4b98-a23c-2675c3388d48" width="500"/>
+<img src="https://github.com/user-attachments/assets/779a5041-66d8-45ba-9d7e-d851ad7dfe07" width="500"/>
+<img src="https://github.com/user-attachments/assets/8f6a1287-45c3-42ee-ba90-53505fa8de40" width="500"/>
 
 ## How It Works
 
@@ -50,19 +42,13 @@ This project is a Final Year Project developed at the ICAI School of Engineering
 
 The system was tested with various user flows and produced high-quality, coherent audio outputs. Usability and accessibility were central design criteria, with successful implementation in all tested scenarios.
 
-## Future Work
-
-- Voice customization per user
-- Story saving and retrieval
-- Forum features with AI moderation
-- Multilingual support
-
 ## Author
 
 - Sergio Rodríguez García  
-  Final Year Project – Telecommunications Engineering  
+  Final Degree Project – Telecommunications Engineering  
   Universidad Pontificia Comillas – ICAI
 
 ## License
 
 For educational purposes only.
+
