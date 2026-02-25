@@ -1,6 +1,6 @@
 # AI for Accessibility
 
-This project is a Final Degree Project developed at the ICAI School of Engineering (Universidad Pontificia Comillas). It presents a web application powered by AI, aimed at supporting people with speech impairments by guiding them to share stories and thoughts in a friendly, structured way. The application transforms their responses into personalized audio using text-to-speech synthesis.
+This project is my Batchelor Thesis developed at the ICAI School of Engineering (Universidad Pontificia Comillas). It presents a web application powered by AI, aimed at supporting people with speech impairments by guiding them to share stories and thoughts in a friendly, structured way. The application transforms their responses into personalized audio using text-to-speech synthesis.
 
 ## Features
 
