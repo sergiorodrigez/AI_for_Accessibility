@@ -45,7 +45,7 @@ The system was tested with various user flows and produced high-quality, coheren
 ## Author
 
 - Sergio Rodríguez García  
-  Final Degree Project – Telecommunications Engineering  
+  Batchelor Thesis – Telecommunications Engineering  
   Universidad Pontificia Comillas – ICAI
 
 ## License
